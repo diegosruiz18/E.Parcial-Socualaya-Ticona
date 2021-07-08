@@ -1,0 +1,60 @@
+
+
+.fondoAlmacen{
+    background: url(../img/bgAlmacen1.jpg);
+    background-size: cover; /*la imagen abarca el 100%*/
+    background-position: center 0; /*la imagen estara centrada*/
+    background-repeat: no-repeat;
+}
+
+.fondoCompras{
+    background: url(../img/bgCompras.jpg);
+    background-size: cover; /*la imagen abarca el 100%*/
+    background-position: center 0; /*la imagen estara centrada*/
+    background-repeat: no-repeat;
+}
+
+.fondoVentas{
+    background: url(../img/bgVentas2.jpg);
+    background-size: cover; /*la imagen abarca el 100%*/
+    background-position: center 0; /*la imagen estara centrada*/
+    background-repeat: no-repeat;
+}
+
+.fondoClientes{
+    background: url(../img/bgClientes1.jpg);
+    background-size: cover; /*la imagen abarca el 100%*/
+    background-position: center 0; /*la imagen estara centrada*/
+    background-repeat: no-repeat;
+}
+
+.fondoUsuarios{
+    background: url(../img/bgUsuarios1.jpg);
+    background-size: cover; /*la imagen abarca el 100%*/
+    background-position: center 0; /*la imagen estara centrada*/
+    background-repeat: no-repeat;
+}
+
+.fondoConsultaCompras{
+    background: url(../img/bgConsultasCompra1.jpg);
+    background-size: cover; /*la imagen abarca el 100%*/
+    background-position: center 0; /*la imagen estara centrada*/
+    background-repeat: no-repeat;
+}
+
+.fondoConsultaVentas{
+    background: url(../img/bgConsultaVentas1.jpg);
+    background-size: cover; /*la imagen abarca el 100%*/
+    background-position: center 0; /*la imagen estara centrada*/
+    background-repeat: no-repeat;
+}
+
+.color-titulo{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+}
+
+.texto-mensaje{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
